@@ -1,1 +1,2 @@
-# practica-02-AdrianAlfonzo
+# Guía Practica 2: Programación Estructurada
+© AA - 2019
